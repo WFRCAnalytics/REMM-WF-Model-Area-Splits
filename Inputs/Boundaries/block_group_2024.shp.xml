@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250613</CreaDate><CreaTime>11193700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\Rename" Date="20250613" Time="111937">Rename E:\Tasks\Box-Elder-County-Split\Inputs\Boundaries\tl_2024_49_bg.shp E:\Tasks\Box-Elder-County-Split\Inputs\Boundaries\block_group_2024.shp ShapeFile</Process></lineage></DataProperties></Esri></metadata>
